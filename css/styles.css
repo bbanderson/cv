@@ -297,3 +297,8 @@ div.bottom-container p {
     border-radius: 20px;
     text-decoration: none;
 }
+
+/* Portfolio Section */
+.portfolio a {
+    padding: 0 15px;
+}
