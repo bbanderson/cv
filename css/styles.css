@@ -302,3 +302,12 @@ div.bottom-container p {
 .portfolio a {
     padding: 0 15px;
 }
+
+/* Algorithm Page */
+.card {
+    padding: 30px;
+}
+
+i.algorithm {
+    width: 300px;
+}
